@@ -53,7 +53,7 @@
       </ul>
     </div>
     <?php } ?>
-
+    
 
     <div class="generic-content">
       <?php the_content(); ?>
